@@ -8,4 +8,4 @@ Project ini hanya dibuat untuk melengkapi UAS Jaringan Nirkabel.
 Masih hanya dalam prototype / sekedar ide saja, blm siap buat di implementasikan di dunia nyata.
 
 ## Demo
-[![Testing Demo](https://github.com/shiwildy/SIMSECRSDAVID/raw/refs/heads/main/assets/thumb.png)](https://raw.githubusercontent.com/shiwildy/SIMSECRSDAVID/main/assets/demo.mp4)
+https://github.com/user-attachments/assets/2a7fce74-aa94-4b3b-96fd-85fce637ecde
