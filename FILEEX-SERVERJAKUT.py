@@ -1,0 +1,1 @@
+print("Ini file buat uji copy syncron ke server jakpus dari jakut")
