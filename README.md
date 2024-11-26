@@ -3,4 +3,6 @@ Simulasi Security jaringan RS David [ TUGAS KULIAH SAJA ]
 
 ## Info
 Project ini hanya dibuat untuk melengkapi UAS Jaringan Nirkabel.
-dan masih hanya dalam prototype / sekedar ide saja.
+
+## Penting
+Masih hanya dalam prototype / sekedar ide saja, blm siap buat di implementasikan di dunia nyata.
